@@ -1,0 +1,15 @@
+[submodule "labo1-equipe-24"]
+	path = labo1-equipe-24
+	url = https://github.com/INF3500A2021/labo1-equipe-24.git
+[submodule "labo2-equipe-24"]
+	path = labo2-equipe-24
+	url = https://github.com/INF3500A2021/labo2-equipe-24.git
+[submodule "labo3-equipe-24"]
+	path = labo3-equipe-24
+	url = https://github.com/INF3500A2021/labo3-equipe-24.git
+[submodule "labo4-equipe-24"]
+	path = labo4-equipe-24
+	url = https://github.com/INF3500A2021/labo4-equipe-24.git
+[submodule "labo5-equipe-24"]
+	path = labo5-equipe-24
+	url = https://github.com/INF3500A2021/labo5-equipe-24.git
